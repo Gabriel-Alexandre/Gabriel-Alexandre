@@ -2,7 +2,7 @@
 
 - 📚 I'm majoring in computer engineering
 - 🌱 I’m currently learning Python and C/C++
-- 👨I'm twenty years old
+- 👨 I'm twenty years old
 - ⚡ Fun fact: I'm the best
 
 <div align="center">
