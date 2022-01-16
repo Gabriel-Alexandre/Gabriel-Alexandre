@@ -2,8 +2,7 @@
 
 - 📚 I'm majoring in computer engineering
 - 🌱 I’m currently learning Python and C/C++
-- 📫 How to reach me: João Pessoa, Paraiba (Brazil)
-- 😄 Pronouns: he/his
+- 👨I'm twenty years old
 - ⚡ Fun fact: I'm the best
 
 <div align="center">
