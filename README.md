@@ -3,7 +3,7 @@
 - 📚 I'm majoring in computer engineering
 - 🌱 I’m currently learning Python and C/C++
 - 👨 I'm twenty years old
-- ⚡ Fun fact: I'm the best
+- True: I'm the man
 
 <div align="center">
   <a href="https://github.com/Gabriel-Alexandre">
