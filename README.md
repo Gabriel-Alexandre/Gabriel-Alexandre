@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Gabriel Alexandre
 
 - 📚 I'm majoring in computer engineering
-- 🌱 I’m currently learning Python and C/C++
-- 👨 I'm twenty years old
 - True: I'm the man
 
 <div align="center">
