@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Gabriel Alexandre
 
-- 📚 I'm majoring in computer engineering
-- True: I'm the man
+- I'm computer engineering
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
