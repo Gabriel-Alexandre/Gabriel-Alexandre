@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** specialized in AI and automation, with 5 years of experience building scalable systems. I spend most of my time solving the problems that show up when LLMs need to work inside real systems — not demos.
 
-Most recently, I worked at **Adapta**, one of Latin America's largest AI companies, where I grew from Senior Software Engineer to **Domain Lead**. I led critical platform domains — scheduled tasks, skills system, and context management — owning architecture decisions, feature prioritization, and a team of 2 engineers.
+Over the past year I worked at **Adapta**, one of Latin America's largest AI companies, where I grew from Senior Software Engineer to **Domain Lead**. I led critical platform domains — scheduled tasks, skills system, and context management — owning product decisions, architecture, and feature prioritization across a team of 2 engineers.
 
 ### 🔧 Things I built in production
 
@@ -13,27 +13,25 @@ Most recently, I worked at **Adapta**, one of Latin America's largest AI compani
 
 ### 🛠️ Main stack
 
-- **Frontend**: React, Next.js, Angular
-- **Backend**: Node.js, TypeScript, C#, Supabase, PostgreSQL, MySQL, Entity Framework
-- **DevOps**: Docker, GitHub Actions, AWS (EC2, ECS, S3, SQS)
-- **AI / LLMs**: LLM integration, async pipelines, prompt engineering, cost optimization
+**Node.js · React · Next.js · TypeScript** — with experience in C#, Angular, Supabase, Docker, and AWS
 
 ### 📡 I also create content about AI & automation
 
-I share practical content about AI engineering and automation on YouTube, Instagram, and TikTok — focused on how LLMs actually behave inside real systems.
+I share practical content about AI engineering and automation on social media — focused on how LLMs actually behave inside real systems. → [linktr.ee/biellcarvalho.ia](https://linktr.ee/biellcarvalho.ia)
 
 ### 🔗 Let's connect
 
-- [LinkedIn](https://linkedin.com/in/gabrielalexandredev)
-- [Portfolio](https://portfolio.gax.services)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-alexandre-279816201/)
+- [Portfolio](https://portfolio.gaxtech.org/)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Gabriel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Gabriel-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
